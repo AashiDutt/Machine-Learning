@@ -38,4 +38,4 @@ pip3 install jupyter notebook
 | ----- | ----------------------------- | ------------------------------------------------------- | ----------------------- |
 |   1.  |  Naive Bayes                  | Implementation of Naive Bayes using Scikit-Learn.       |         Completed       |
 |   2.  |  Linear Regression            | Implementation of Linear Regression using Scikit-Learn. |         Completed       |
-|   P1. |  Project - 1                  | Prediction of Scaled sound pressure level [NASA] using Linear Regression.  |  Ongoing   |
+|**P1.**|  **Project - 1**              | Prediction of Scaled sound pressure level [NASA] using Linear Regression.  |  Ongoing   |
